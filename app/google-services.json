@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600903359580",
+    "project_id": "heremapss",
+    "storage_bucket": "heremapss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600903359580:android:d9a4a931ed996f1e3eda99",
+        "android_client_info": {
+          "package_name": "com.example.heremapss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600903359580-7po6ohs5g05h12qucrao2okj7amnh753.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_SLUCHnCem9t3ZnaOccAqlcWPkMxdeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600903359580-7po6ohs5g05h12qucrao2okj7amnh753.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

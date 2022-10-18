@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Follow.Me</string>
+
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+
+
+    <string name="textone">textone</string>
+    <string name="texttwo">texttwo</string>
+    <string name="check_mehtod">Check Mehtod</string>
+    <string name="item_one">item one</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="landmark">Landmarks</string>
+    <string name="item_two">item two</string>
+    <string name="item_three">item three</string>
+    <string name="item_four">item four</string>
+    <string name="route">Route</string>
+    <string name="waypoint">Waypoint</string>
+    <string name="clear_map">Clear Map</string>
+    <string name="modern">Modern</string>
+    <string name="historical">Historical</string>
+    <string name="popular">Popular</string>
+
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+    </string-array>
+</resources>

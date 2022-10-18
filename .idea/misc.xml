@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/ic_about.xml" value="0.2085" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.211" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.211" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.211" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/ic_home.xml" value="0.2085" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/ic_person.xml" value="0.2085" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/progress_back.xml" value="0.211" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/selector.xml" value="0.2085" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/drawable/today-48px.xml" value="0.211" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/layout/activity_login.xml" value="0.2359375" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/layout/activity_profile_page.xml" value="0.2359375" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/thoma/Downloads/BCAD '22/OPSC7312/HereMapss/HereMapss/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Users/thoma/Downloads/HereMapss/HereMapss/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/thoma/Downloads/HereMapss/HereMapss/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Users/thoma/Downloads/HereMapss/HereMapss/app/src/main/res/menu/menu_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
