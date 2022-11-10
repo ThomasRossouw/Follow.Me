@@ -601,7 +601,10 @@ public class MainActivity extends AppCompatActivity {
             metermiles = lengthInMeters * 0.00062137;
 
             String routeDetails = "Travel Time: " + formatTime(estimatedTravelTimeInSeconds)
-                    + ", KM's: " + formatLength(lengthInMeters) +" Miles "+metermiles;
+                    + ", KM's: " + formatLength(lengthInMeters) +" Miles "+metermiles
+                    + " \nRobben Island, Afrikaans Robbeneiland, island in Table Bay, Western Cape province, South Africa. " +
+                    "Robben Island served as South Africa`s maximum-security prison. Most inmates, including Nelson Mandela, " +
+                    "were black men incarcerated for political offenses.";
 
             showDialog("Route Details", routeDetails);
         }
@@ -869,7 +872,11 @@ public class MainActivity extends AppCompatActivity {
             metermiles = lengthInMeters * 0.00062137;
 
             String routeDetails = "Travel Time: " + formatTime(estimatedTravelTimeInSeconds)
-                    + ", KM's: " + formatLength(lengthInMeters) +" Miles "+metermiles;
+                    + ", KM's: " + formatLength(lengthInMeters) +" Miles "+metermiles
+                    + " \nCairo, Arabic Al-Qāhirah (“The Victorious”), city, capital of Egypt, and one of the largest cities in Africa. " +
+                    "Cairo has stood for more than 1,000 years on the same site on the banks of the Nile, primarily on the eastern shore, " +
+                    "some 500 miles (800 km) downstream from the Aswan High Dam. Located in the northeast of the country, " +
+                    "Cairo is the gateway to the Nile delta, where the lower Nile separates into the Rosetta and Damietta branches" ;
 
             showDialog("Route Details", routeDetails);
         }
@@ -1138,7 +1145,9 @@ public class MainActivity extends AppCompatActivity {
             metermiles = lengthInMeters * 0.00062137;
 
             String routeDetails = "Travel Time: " + formatTime(estimatedTravelTimeInSeconds)
-                    + ", KM's: " + formatLength(lengthInMeters) +" Miles "+metermiles;
+                    + ", KM's: " + formatLength(lengthInMeters) +" Miles "+metermiles
+                    + "\nQatar is a high income economy and is a developed country, with the world`s third largest natural gas reserves and oil reserves. Qatar is classified by the UN as a country of very high human development and is the most advanced Arab state for human development." +
+                    "\n" + "For its small size, Qatar has a lot of influence in the world, and has been identified as a middle power. Qatar will host the 2022 FIFA World Cup, becoming the first Arab country to do so.";
 
             showDialog("Route Details", routeDetails);
         }
