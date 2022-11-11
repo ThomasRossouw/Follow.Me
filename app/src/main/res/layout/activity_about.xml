@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/bottom_navigation"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="10dp"
         android:fontFamily="sans-serif-black"
         android:text="About"
         android:textAlignment="center"
@@ -42,7 +42,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_marginStart="10dp"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="20dp"
         android:layout_marginEnd="14dp">
 
         <TextView
@@ -96,11 +96,11 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="95dp"
-        android:layout_marginBottom="173dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginBottom="190dp"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Name"
+        android:textColor="@color/white"
+        android:hint="Name"
         android:textAlignment="center" />
 
     <EditText
@@ -109,12 +109,12 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="95dp"
-        android:layout_marginBottom="100dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginBottom="110dp"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Feedback"
-        android:textAlignment="center" />
+        android:hint="Feedback"
+        android:textAlignment="center"
+        android:textColor="@color/white" />
 
     <Button
         android:id="@+id/button"
@@ -122,7 +122,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="50dp"
+        android:layout_marginEnd="30dp"
         android:layout_marginBottom="30dp"
         android:text="Send Feedback"
         android:textSize="20dp" />

@@ -53,7 +53,7 @@ public class About extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i=new Intent(Intent.ACTION_SEND);
+                Intent i=new Intent(Intent.ACTION_SENDTO);
                 i.setType("message/html");
                 i.putExtra(android.content.Intent.EXTRA_EMAIL,new String[] { "ST10121910@vcconnect.edu.za" });
                 i.putExtra(Intent.EXTRA_SUBJECT,"Feedback From App");
