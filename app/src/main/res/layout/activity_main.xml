@@ -93,7 +93,7 @@
             android:id="@+id/SOS"
             android:layout_width="wrap_content"
             android:layout_height="210dp"
-            android:layout_marginStart="320dp"
+            android:layout_marginStart="295dp"
             android:layout_marginBottom="510dp"
             android:onClick="SOS"
             android:text="SOS"

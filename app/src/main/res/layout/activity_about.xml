@@ -99,9 +99,11 @@
         android:layout_marginEnd="75dp"
         android:layout_marginBottom="190dp"
         android:ems="10"
-        android:textColor="@color/white"
         android:hint="Name"
-        android:textAlignment="center" />
+        android:textColorHint="@color/white"
+        android:backgroundTint="@color/white"
+        android:textAlignment="center"
+        android:textColor="@color/white" />
 
     <EditText
         android:id="@+id/edit2"
@@ -113,8 +115,10 @@
         android:layout_marginBottom="110dp"
         android:ems="10"
         android:hint="Feedback"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:textAlignment="center"
-        android:textColor="@color/white" />
+        android:backgroundTint="@color/white" />
 
     <Button
         android:id="@+id/button"
