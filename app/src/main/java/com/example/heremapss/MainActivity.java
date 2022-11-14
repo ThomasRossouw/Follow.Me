@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
     public FloatingActionButton mod;
     public FloatingActionButton pop;
     public FloatingActionButton hist;
-
+    public FloatingActionButton sos;
 
 
 
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
         mod = findViewById(R.id.btn1);
         pop = findViewById(R.id.btn2);
         hist = findViewById(R.id.btn3);
-
+        sos = findViewById(R.id.SOS);
 
         // Get a MapView instance from the layout.
         mapView = findViewById(R.id.map_view);
@@ -175,10 +175,12 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
+    public void SOS(View view){
+        Intent SOSIntent  = new Intent(MainActivity.this,SOS.class);
+        startActivity(SOSIntent);
+    }
 
     //this handles the options menu for here maps functionality
-
 
     private void initializeHERESDK() {
         // Set your credentials for the HERE SDK.
@@ -767,21 +769,7 @@ public class MainActivity extends AppCompatActivity {
         // in the main activity class
         //once the user clicks a button the co ordinates will change
 
-
-
-
-
-
-
         //Co ordinates for popular, modern, historical landmarks
-
-
-
-
-
-
-
-
 
         public RoutingExample3(Context context, MapView mapView) {
             this.context = context;

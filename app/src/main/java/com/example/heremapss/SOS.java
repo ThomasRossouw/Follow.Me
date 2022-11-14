@@ -6,6 +6,7 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.telephony.SmsManager;
@@ -79,5 +80,10 @@ public class SOS extends AppCompatActivity {
         }else {
                 Toast.makeText(getApplicationContext(),"Permission Denied!",Toast.LENGTH_SHORT).show();
     }
+    }
+
+    public void Back(View view){
+        Intent SOSIntent  = new Intent(SOS.this,MainActivity.class);
+        startActivity(SOSIntent);
     }
 }
