@@ -86,6 +86,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
     private MapView mapView;
@@ -120,7 +121,6 @@ public class MainActivity extends AppCompatActivity {
         mod = findViewById(R.id.btn1);
         pop = findViewById(R.id.btn2);
         hist = findViewById(R.id.btn3);
-
 
 
         // Get a MapView instance from the layout.
@@ -174,8 +174,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
     }
+
+
     //this handles the options menu for here maps functionality
 
 
@@ -1291,6 +1292,9 @@ public class MainActivity extends AppCompatActivity {
             builder.setMessage(message);
             builder.show();
         }
+
+
+
     }
 
 
