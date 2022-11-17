@@ -87,12 +87,12 @@ You may not adding an email address.
  - [Firebase](https://firebase.google.com/)
  - [VC Learn](https://myvc.iielearn.ac.za/ultra/)
  - [Android Custom ListView (Adding Images, sub-title)](https://www.javatpoint.com/android-custom-listview)
- - [How to Send Message in Android Studio] (https://www.youtube.com/watch?v=oP6D3q35Mmk&ab_channel=AndroidCoding)
- - [Privacy Policy Generator] (https://app-privacy-policy-generator.firebaseapp.com/)
- - [How to Generate APK and Signed APK Files in Android Studio] (https://code.tutsplus.com/tutorials/how-to-generate-apk-and-signed-apk-files-in-android-studio--cms-37927)
- - [How to fix Execution failed for task ':app:processDebugGoogleServices'. in Android Studio 2021] (https://www.youtube.com/watch?v=XqYIOYb3w-0&ab_channel=FixAmma)
- - [Rename package in Android Studio] (https://stackoverflow.com/questions/16804093/rename-package-in-android-studio)
- - [Github] (https://github.com/) 
+ - [How to Send Message in Android Studio](https://www.youtube.com/watch?v=oP6D3q35Mmk&ab_channel=AndroidCoding)
+ - [Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+ - [How to Generate APK and Signed APK Files in Android Studio](https://code.tutsplus.com/tutorials/how-to-generate-apk-and-signed-apk-files-in-android-studio--cms-37927)
+ - [How to fix Execution failed for task ':app:processDebugGoogleServices'. in Android Studio 2021](https://www.youtube.com/watch?v=XqYIOYb3w-0&ab_channel=FixAmma)
+ - [Rename package in Android Studio](https://stackoverflow.com/questions/16804093/rename-package-in-android-studio)
+ - [Github](https://github.com/) 
 
 
 ## Support
