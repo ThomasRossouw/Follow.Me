@@ -35,6 +35,7 @@ ComplieSdk 32
 - Login and Register.
 - Kilometres and Miles calculated.
 - Popular, Historic and Modern landmark indicated.
+
 *As of v2
 - Feedback form linked to developer email
 - Emergency SMS functionality 
